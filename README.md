@@ -131,7 +131,7 @@ I am a **Cybersecurity Engineer** with **7+ years of experience** in **network s
 ## 📬 **Get in Touch**
 
 * **Email:** [chandolupooja@gmail.com](mailto:chandolupooja@gmail.com)
-* **LinkedIn:** [https://www.linkedin.com](https://www.linkedin.com)
+* **LinkedIn:** [https://www.linkedin.com](https://www.linkedin.com/in/poojachandolu)
 
 ---
 
