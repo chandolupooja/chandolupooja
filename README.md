@@ -1,6 +1,6 @@
 # Hi there, I'm Pooja Chandolu 👋
 
-Welcome to my GitHub profile! I am a **Cybersecurity Engineer** with **6+ years of experience** in **network security**, **application delivery**, and **infrastructure protection**. I specialize in designing, securing, and operating highly available enterprise networks while protecting organizations against modern cyber threats.
+I am a **Cybersecurity Engineer** with **7+ years of experience** in **network security**, **application delivery**, and **infrastructure protection**. I specialize in designing, securing, and operating highly available enterprise networks while protecting organizations against modern cyber threats.
 
 ---
 
